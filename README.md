@@ -1,3 +1,5 @@
+#AVISO!!!
+
    Este é um clone do site da MusicDot. Criado apenas com o propósito
 de expandir minhas habilidades em desenvolvimento web.
 
