@@ -8,5 +8,5 @@ web.
 
    Não ganho nada com isso, apenas desenvolvo o projeto junto com a [apostila daCaelum](https://www.caelum.com.br/download-apostilas)
 para estudos e testes. Não acredito estar violando algum direito autoral
-com isso, mas caso esteja, por favor, me avise para que eu possa remover o
+com isso, mas caso esteja, por favor, me `avise` para que eu possa remover o
 repositório.
